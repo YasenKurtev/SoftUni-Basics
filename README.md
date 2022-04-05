@@ -12,5 +12,3 @@ The main topics are:
 
 Each topic contains three main categories - Lab, Exercise ans More Exercise
 The descriptions for the different tasks are included in each folder.
-
-11111111111111111111111111111111
