@@ -1,5 +1,5 @@
 # SoftUni-Basics
-Different tasks an exams from SoftUni JS Basics course.
+Different tasks from SoftUni JS Basics course.
 
 The main topics are:
 1. First steps in coding
